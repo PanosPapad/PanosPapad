@@ -5,3 +5,4 @@
   &nbsp;&nbsp;
   <img src="https://stats.panospapadopoulos.dev/api/top-langs/?username=PanosPapad&layout=compact&theme=github_dark&count_private=true" alt="Top Languages" />
 </p>
+
